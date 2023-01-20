@@ -14,3 +14,6 @@ echo A - $a
 
 # Command Substitution
 # VARNAME=$(command)
+
+# Access variable from Shell
+echo C - $c
