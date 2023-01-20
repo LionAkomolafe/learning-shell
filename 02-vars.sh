@@ -11,3 +11,6 @@ echo A - $a
 # You can receive data dynamically in two ways:
 # 1. User Input
 # 2. Use script to find out with other commands
+
+# Command Substitution
+# VARNAME=$(command)
