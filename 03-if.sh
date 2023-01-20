@@ -1,4 +1,4 @@
-a=10
+a=1
 
 if [ $a -gt 5 ]
 then
