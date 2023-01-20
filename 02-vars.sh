@@ -5,4 +5,9 @@
 a=10
 
 ## Access a variable - $VARNAME
-A - $a
+echo A - $a
+
+# a=10 has been hardcoded manually, however we need the data dynamically
+# You can receive data dynamically in two ways:
+# 1. User Input
+# 2. Use script to find out with other commands
