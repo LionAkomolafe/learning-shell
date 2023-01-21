@@ -3,8 +3,8 @@ SAMPLE() {
   a=150
   echo A - $a
   b=20
-  echo Function First Argument = $1
   #100 commands
+  echo Function First Argument = $1
 }
 
 ## main program
