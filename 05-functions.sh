@@ -8,4 +8,4 @@ SAMPLE() {
 ## main program
 a=10
 SAMPLE
-b - $b
+echo b - $b
